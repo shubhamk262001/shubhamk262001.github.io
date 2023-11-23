@@ -117,3 +117,119 @@
     </footer>
 </body>
 </html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your GitHub Page</title>
+    <style>
+        /* ... (styles from the previous example) */
+        .options {
+            position: absolute;
+            top: 1em;
+            right: 1em;
+            display: flex;
+        }
+
+        .options a {
+            margin-left: 1em;
+            color: #fff;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Your GitHub Page</h1>
+    </header>
+
+    <div class="options">
+        <a href="experience.html">Experience</a>
+        <a href="research.html">Research Interests</a>
+    </div>
+
+    <nav>
+        <a href="#about">About</a>
+        <a href="#projects">Projects</a>
+        <a href="#gallery">Gallery</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <main>
+        <!-- ... (content from the previous example) -->
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Your Name</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Experience - Your GitHub Page</title>
+    <style>
+        /* ... (styles from the previous example) */
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Experience</h1>
+    </header>
+
+    <div class="options">
+        <a href="index.html">Home</a>
+        <a href="research.html">Research Interests</a>
+    </div>
+
+    <main>
+        <section>
+            <h2>Professional Experience</h2>
+            <p>Details about your work experience.</p>
+        </section>
+        <!-- ... (add more sections as needed) -->
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Your Name</p>
+    </footer>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Research Interests - Your GitHub Page</title>
+    <style>
+        /* ... (styles from the previous example) */
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Research Interests</h1>
+    </header>
+
+    <div class="options">
+        <a href="index.html">Home</a>
+        <a href="experience.html">Experience</a>
+    </div>
+
+    <main>
+        <section>
+            <h2>Research Interests</h2>
+            <p>Details about your research interests.</p>
+        </section>
+        <!-- ... (add more sections as needed) -->
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Your Name</p>
+    </footer>
+</body>
+</html>
